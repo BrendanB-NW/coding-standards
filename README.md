@@ -7,7 +7,7 @@ Personal coding standards and templates for consistent, regenerable projects —
 Reference in AI prompts →
 
 ```markdown
-Follow my coding standards from `github.com/lukeh/coding-standards`.
+Follow my coding standards from `github.com/lukehhollenback/coding-standards`.
 ```
 
 ## Core Principles
