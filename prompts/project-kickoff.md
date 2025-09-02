@@ -7,7 +7,7 @@ Use this template when starting new projects with AI assistance.
 ```
 I'm starting a new [type] project called "{project-name}" that [brief description of what it does].
 
-Please follow my coding standards from github.com/lukeh/coding-standards, specifically:
+Please follow my coding standards from github.com/BrendanB-NW/coding-standards, specifically:
 
 1. **Regenerable Specification**: Create a complete CLAUDE.md file using templates/CLAUDE-template.md that contains everything needed to regenerate this project
 
@@ -48,7 +48,7 @@ Ask clarifying questions about requirements before beginning implementation.
 ```
 I'm creating a new Model Context Protocol (MCP) server called "{project-name}" that [description].
 
-Follow my coding standards from github.com/lukeh/coding-standards and create:
+Follow my coding standards from github.com/BrendanB-NW/coding-standards and create:
 
 1. A regenerable CLAUDE.md specification covering:
    - Complete MCP tool definitions and implementations
@@ -79,7 +79,7 @@ Target performance: [response time requirements]
 ```
 I'm building a [REST API/GraphQL API/microservice] called "{project-name}" that [description].
 
-Follow my coding standards from github.com/lukeh/coding-standards with focus on:
+Follow my coding standards from github.com/BrendanB-NW/coding-standards with focus on:
 
 1. API design following REST/GraphQL best practices
 2. Comprehensive error handling with structured error responses
@@ -106,7 +106,7 @@ Integration requirements:
 ```
 I'm creating a [JavaScript/TypeScript] library called "{project-name}" that [description].
 
-Follow my coding standards from github.com/lukeh/coding-standards with emphasis on:
+Follow my coding standards from github.com/BrendanB-NW/coding-standards with emphasis on:
 
 1. Clean, well-documented public API
 2. Comprehensive examples and usage documentation
